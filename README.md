@@ -1,9 +1,9 @@
-Real-Time Object Detection with Voice Feedback using YOLOv3 and OpenCV
+**Real-Time Object Detection with Voice Feedback using YOLOv3 and OpenCV**
 
 This project implements real-time object detection using the YOLOv3 deep learning model and provides audio feedback using a text-to-speech engine.
 
-Features
-
+**Features
+**
 Real-time video feed processing from webcam
 
 Object detection using YOLOv3 (You Only Look Once)
